@@ -93,3 +93,11 @@ body {
    text-align: center;
    color: crimson;
   }
+  #bestmenu{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   
+   gap: 1em;
+  }

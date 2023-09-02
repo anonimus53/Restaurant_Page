@@ -34,6 +34,7 @@
    const dadname = document.createElement('h3');
    dadname.setAttribute('id', 'welcome');
    dadname.textContent = 'Welcome to our Restaurant';
+   
    const mainpage = document.createElement('div');
    mainpage.setAttribute('id', 'page');
    const one = document.createElement('div');
